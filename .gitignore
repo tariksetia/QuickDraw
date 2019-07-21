@@ -1,0 +1,6 @@
+__pycache__
+.ipynb*
+logs_
+user_input
+data 
+.DS_Store
