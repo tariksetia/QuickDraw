@@ -4,7 +4,7 @@ argcomplete==1.10.0
 asn1crypto==0.24.0
 astor==0.8.0
 backcall==0.1.0
-bleach==2.1.4
+bleach==3.3.0
 boto==2.49.0
 certifi==2016.9.26
 cffi==1.12.3
