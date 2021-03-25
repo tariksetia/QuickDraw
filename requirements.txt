@@ -84,7 +84,7 @@ pyparsing==2.4.0
 python-dateutil==2.7.3
 pytz==2019.1
 pyu2f==0.1.4
-PyYAML==5.1.1
+PyYAML==5.4
 pyzmq==17.1.2
 retry-decorator==1.1.0
 rsa==4.0
